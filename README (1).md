@@ -87,4 +87,5 @@ This system introduces **real-time monitoring and automated intervention** to el
 
 ---
 
-## 📂 Repository Structure
+<img width="1600" height="1200" alt="WhatsApp Image 2026-09-21 at 9 14 21 PM" src="https://github.com/user-attachments/assets/894775de-200c-4a3b-ab46-b8ee16ec3f85" />
+
